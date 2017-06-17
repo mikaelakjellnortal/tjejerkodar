@@ -1,0 +1,209 @@
+.wrapper {
+  font-family: "brandon-grotesque", sans-serif;
+}
+
+.button {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 15px 23px;
+  display: inline-block;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: #5EFCDB;
+  color: #23173B;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 0.71429rem;
+  letter-spacing: 0.2em;
+}
+
+h1{
+  text-align: center;
+  font-family: "brandon-grotesque", sans-serif;
+}
+
+h2{
+  color: #441985;
+  text-align: center;
+  font-family: "brandon-grotesque", sans-serif;
+}
+
+.header-text-title {
+  color: white;
+  margin: 40px;
+  font-family: "brandon-grotesque", sans-serif;
+}
+
+
+h3 {
+  text-align: center;
+  color: #441985;
+  font-family: "brandon-grotesque", sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: "brandon-grotesque", sans-serif;
+}
+
+.nyheter-layout {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+
+}
+
+.meny {
+    position: flex;
+    text-align: center;
+}
+
+.meny a {
+  color: white;
+  padding: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.header {
+  padding: 80px;
+  padding-top: 80px;
+  margin-width: 100%;
+  color: white;
+  text-align: center;
+  background-image: url("http://tjejerkodar.se/image/lila_pattern.png");
+}
+
+.title1-text {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.title2-text {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.resor {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.RESOR-text {
+  background-color: white;
+  color: #441985;
+  text-align: center;
+  padding: 12px;
+}
+
+.RESOR-Barcelona {
+  display: flex;
+  justify-content: center;
+  padding-top: 80px;
+  margin: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  background-position: center;
+  background-size: cover;
+  width: 530px;
+  height: 340px;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+  background-position: center;
+  background-image: url("http://tjejerkodar.se/image/barcelona-kodresa.png");
+}
+
+.RESOR-Berlin {
+display: flex;
+  justify-content: center;
+  padding-top: 80px;
+  margin: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  background-position: center;
+  background-size: cover;
+  width: 530px;
+  height: 340px;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+  background-position: center;
+  background-image: url("http://tjejerkodar.se/image/berlin-kodresa.png");
+}
+
+.nyheter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.nyheter1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  width: 340px;
+  height: 340px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-position: center;
+  background-image: url("http://tjejerkodar.se/image/ljuslila_pattern.png")
+}
+
+.nyheter2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  width: 340px;
+  height: 340px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-position: center;
+  background-image: url("http://tjejerkodar.se/image/bla_pattern.png")
+}
+
+.nyheter3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  width: 340px;
+  height: 340px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-position: center;
+  background-image: url("http://tjejerkodar.se/image/gron_pattern.png")
+}
+
+.wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.footer {
+  text-align: center;
+  padding: 40px;
+  padding-top: 60px;
+  margin-width: 100%;
+  color: white;
+  background-color: #441985;
+}
